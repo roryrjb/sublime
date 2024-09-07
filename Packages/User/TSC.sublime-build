@@ -1,0 +1,4 @@
+{
+    "shell_cmd": "vue-tsc --noEmit --allowJs --lib es2020,dom --skipLibCheck $file",
+    "file_regex": "^\\s*(.*)\\((\\d+),(\\d+)\\):\\s*(.*)"
+}

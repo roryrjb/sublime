@@ -1,0 +1,12 @@
+[
+    {
+        "command": "prompt_select_workspace",
+        "keys": [
+            "f1"
+        ]
+    },
+    {
+        "keys": ["ctrl+shift+c"],
+        "command": "clear_first_string"
+    }
+]

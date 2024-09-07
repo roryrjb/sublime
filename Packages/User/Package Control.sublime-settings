@@ -1,0 +1,12 @@
+{
+	"installed_packages":
+	[
+		"Package Control",
+		"Sass",
+		"Vue Syntax Highlight",
+	],
+	"in_process_packages":
+	[
+	],
+	"bootstrapped": true,
+}
