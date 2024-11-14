@@ -1,12 +1,16 @@
 {
-	"installed_packages":
-	[
-		"Package Control",
-		"Sass",
-		"Vue Syntax Highlight",
-	],
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
-	"bootstrapped": true,
+	"installed_packages":
+	[
+		"Alabaster Color Scheme",
+		"All Autocomplete",
+		"Dockerfile Syntax Highlighting",
+		"Package Control",
+		"TOML",
+		"Vue Syntax Highlight",
+		"YamlPipelines",
+	],
 }
