@@ -1,7 +1,7 @@
 {
-	"extensions":
-	[
-		".eslintrc",
+	"extensions": [
+		".csslintrc",
 		".prettierrc",
+		".babelrc",
 	],
 }

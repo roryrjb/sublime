@@ -1,16 +1,18 @@
 {
 	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		"Alabaster Color Scheme",
-		"All Autocomplete",
-		"Dockerfile Syntax Highlighting",
+	"installed_packages": [
+		"LSP",
+		"LSP-copilot",
+		"LSP-file-watcher-chokidar",
+		"LSP-json",
+		"LSP-pyright",
+		"LSP-typescript",
+		"LSP-vue",
+		"LSP-yaml",
 		"Package Control",
+		"Sass",
 		"TOML",
-		"Vue Syntax Highlight",
-		"YamlPipelines",
+		"Vue",
 	],
+	"in_process_packages": [],
 }

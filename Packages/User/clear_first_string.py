@@ -4,6 +4,7 @@ import re
 
 
 class ClearFirstStringCommand(sublime_plugin.TextCommand):
+
     def run(self, edit):
         cursor_position = self.view.sel()[0].begin()
         line_region = self.view.line(cursor_position)
